@@ -1,0 +1,24 @@
+fieldset{
+
+color: white;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgb(45, 9, 9);
+
+}
+body{
+
+  background-color: rgb(255, 253, 208);
+}
+
+button{
+
+    color: white;
+    background-color: blue;
+    text-align: center;
+    float: right;
+}
+
+
+
